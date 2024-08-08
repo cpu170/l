@@ -922,17 +922,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/策驰影院(自动).js"
 		},
-		{
-			"key": "hipy_js_茶语资源[资]",
-			"name": "茶语资源[资](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/茶语资源[资].js"
-		},
+		
 		{
 			"key": "hipy_js_厂长资源",
 			"name": "厂长资源(drpy_t3)",
