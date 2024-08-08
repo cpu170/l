@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "Local",
-			"name": "本地|更新同步于0806",
+			"name": "本地|播放",
 			"type": 3,
 			"api": "csp_Local"
 		},
