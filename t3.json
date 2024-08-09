@@ -520,39 +520,7 @@
       "order_num": 0,
       "ext": "./drpy_js/爱看机器人[虫].js"
     },
-    {
-      "key": "hipy_js_爱看农民[优]",
-      "name": "爱看农民[优]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/爱看农民[优].js"
-    },
-    {
-      "key": "hipy_js_爱看农民2[优]",
-      "name": "爱看农民2[优]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/爱看农民2[优].js"
-    },
-    {
-      "key": "hipy_js_爱看影院",
-      "name": "爱看影院",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/爱看影院.js"
-    },
+   
     {
       "key": "hipy_js_爱看hd",
       "name": "爱看hd",
