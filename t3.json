@@ -4,6 +4,17 @@
   "homeLogo": "./img/logo500x200-1.png",
   "spider": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
   "sites": [
+     {
+      "key": "hipy_js_豆瓣[官]",
+      "name": "豆瓣[官]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/豆瓣[官].js"
+    },
     {
       "key": "Local",
       "name": "本地|播放",
@@ -623,17 +634,7 @@
       "order_num": 0,
       "ext": "./drpy_js/宝片视频.js"
     },
-    {
-      "key": "hipy_js_暴风资源[资]",
-      "name": "暴风资源[资]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/暴风资源[资].js"
-    },
+   
     {
       "key": "hipy_js_北川影视",
       "name": "北川影视",
@@ -656,17 +657,7 @@
       "order_num": 0,
       "ext": "./drpy_js/贝乐虎[儿].js"
     },
-    {
-      "key": "hipy_js_被窝电影",
-      "name": "被窝电影",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/被窝电影.js"
-    },
+   
     {
       "key": "hipy_js_笔趣阁[书]",
       "name": "笔趣阁[书]",
@@ -821,17 +812,7 @@
       "order_num": 0,
       "ext": "./drpy_js/达达猪.js"
     },
-    {
-      "key": "hipy_js_大米动漫[漫]",
-      "name": "大米动漫[漫]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/大米动漫[漫].js"
-    },
+   
     {
       "key": "hipy_js_大米星球",
       "name": "大米星球",
@@ -887,17 +868,7 @@
       "order_num": 0,
       "ext": "./drpy_js/大师兄影视[优].js"
     },
-    {
-      "key": "hipy_js_大中国",
-      "name": "大中国",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/大中国.js"
-    },
+   
     {
       "key": "hipy_js_蛋蛋剧",
       "name": "蛋蛋剧",
@@ -964,17 +935,7 @@
       "order_num": 0,
       "ext": "./drpy_js/嘀哩嘀哩.js"
     },
-    {
-      "key": "hipy_js_第一韩漫[画]",
-      "name": "第一韩漫[画]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/第一韩漫[画].js"
-    },
+   
     {
       "key": "hipy_js_电影狗",
       "name": "电影狗",
@@ -1008,28 +969,7 @@
       "order_num": 0,
       "ext": "./drpy_js/电影先生.js"
     },
-    {
-      "key": "hipy_js_顶点小说[书]",
-      "name": "顶点小说[书]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/顶点小说[书].js"
-    },
-    {
-      "key": "hipy_js_顶点小说2[书]",
-      "name": "顶点小说2[书]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/顶点小说2[书].js"
-    },
+   
     {
       "key": "hipy_js_动漫巴士[漫]",
       "name": "动漫巴士[漫]",
@@ -1063,17 +1003,7 @@
       "order_num": 0,
       "ext": "./drpy_js/斗鱼直播[官].js"
     },
-    {
-      "key": "hipy_js_豆瓣[官]",
-      "name": "豆瓣[官]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/豆瓣[官].js"
-    },
+   
     {
       "key": "hipy_js_豆角网",
       "name": "豆角网",
