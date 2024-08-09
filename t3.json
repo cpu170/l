@@ -1070,28 +1070,8 @@
       "order_num": 0,
       "ext": "./drpy_js/多多追剧[优].js"
     },
-    {
-      "key": "hipy_js_番号资源[密]",
-      "name": "番号资源[密]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/番号资源[密].js"
-    },
-    {
-      "key": "hipy_js_番茄小说[书]",
-      "name": "番茄小说[书]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/番茄小说[书].js"
-    },
+   
+   
     {
       "key": "hipy_js_饭团影视",
       "name": "饭团影视",
@@ -1103,17 +1083,7 @@
       "order_num": 0,
       "ext": "./drpy_js/饭团影视.js"
     },
-    {
-      "key": "hipy_js_飞刀资源[资]",
-      "name": "飞刀资源[资]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/飞刀资源[资].js"
-    },
+   
     {
       "key": "hipy_js_飞狗影院[密]",
       "name": "飞狗影院[密]",
@@ -1125,17 +1095,7 @@
       "order_num": 0,
       "ext": "./drpy_js/飞狗影院[密].js"
     },
-    {
-      "key": "hipy_js_飞翔鸟[书]",
-      "name": "飞翔鸟[书]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/飞翔鸟[书].js"
-    },
+   
     {
       "key": "hipy_js_飞鱼影视",
       "name": "飞鱼影视",
@@ -1158,17 +1118,7 @@
       "order_num": 0,
       "ext": "./drpy_js/非凡资源[资].js"
     },
-    {
-      "key": "hipy_js_分享短视频",
-      "name": "分享短视频",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/分享短视频.js"
-    },
+    
     {
       "key": "hipy_js_干饭影视",
       "name": "干饭影视",
@@ -1334,17 +1284,7 @@
       "order_num": 0,
       "ext": "./drpy_js/黑木耳资源[资].js"
     },
-    {
-      "key": "hipy_js_恒大影视[密]",
-      "name": "恒大影视[密]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/恒大影视[密].js"
-    },
+   
     {
       "key": "hipy_js_虎牙直播[官]",
       "name": "虎牙直播[官]",
@@ -1379,17 +1319,7 @@
         "ratio": 1.1
       }
     },
-    {
-      "key": "hipy_js_火狐影视",
-      "name": "火狐影视",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/火狐影视.js"
-    },
+   
     {
       "key": "hipy_js_即看影视",
       "name": "即看影视",
