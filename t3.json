@@ -100,17 +100,7 @@
       "order_num": 0,
       "ext": "./drpy_js/哔哩影视[官].js"
     },
-    {
-      "key": "hipy_js_我的哔哩[官]1",
-      "name": "哔哩大全[官]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 1,
-      "ext": "./drpy_js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
-    },
+   
     
     {
       "key": "hipy_js_我的哔哩[官]3",
