@@ -3767,15 +3767,7 @@
       "timeout": 60,
       "ext": "./json/tokenm.json$$$null$$$proxy"
     },
-    {
-      "key": "push_agent",
-      "name": "PG推送",
-      "type": 3,
-      "api": "csp_Push",
-      "changeable": 0,
-      "timeout": 30,
-      "ext": "./json/tokenm.json"
-    },
+   
     {
       "key": "PikPakShare",
       "name": "PikPak分享",
@@ -4151,6 +4143,15 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./drpy_js/种子音乐[听].js"
+    },
+     {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "changeable": 0,
+      "timeout": 30,
+      "ext": "./json/tokenm.json"
     }
   
     
