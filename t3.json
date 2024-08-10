@@ -180,18 +180,6 @@
       "order_num": 193,
       "ext": "./drpy_js/直播转点播[合].js?type=url&params=./json/live2cms.json"
     },
-    
-    {
-      "key": "hipy_js_01看球[球]",
-      "name": "01看球[球]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/01看球[球].js"
-    },
     {
       "key": "hipy_js_0855影视",
       "name": "0855影视",
@@ -230,17 +218,7 @@
       "order_num": 0,
       "ext": "./drpy_js/29片库[密].js"
     },
-    {
-      "key": "hipy_js_310直播[球]",
-      "name": "310直播[球]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/310直播[球].js"
-    },
+   
     {
       "key": "hipy_js_348电影网",
       "name": "348电影网",
@@ -252,17 +230,7 @@
       "order_num": 0,
       "ext": "./drpy_js/348电影网.js"
     },
-    {
-      "key": "hipy_js_360吧[球]",
-      "name": "360吧[球]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/360吧[球].js"
-    },
+  
     {
       "key": "hipy_js_36直播[密]",
       "name": "36直播[密]",
@@ -356,17 +324,7 @@
       "order_num": 0,
       "ext": "./drpy_js/磁力熊[磁].js"
     },
-    {
-      "key": "hipy_js_88看球[球]",
-      "name": "88看球[球]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/88看球[球].js"
-    },
+   
     {
       "key": "88Pan",
       "name": "88网盘|网盘搜索",
@@ -4160,6 +4118,50 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./drpy_js/种子音乐[听].js"
+    },
+     {
+      "key": "hipy_js_310直播[球]",
+      "name": "310直播[球]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/310直播[球].js"
+    },
+      {
+      "key": "hipy_js_360吧[球]",
+      "name": "360吧[球]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/360吧[球].js"
+    },
+     {
+      "key": "hipy_js_88看球[球]",
+      "name": "88看球[球]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/88看球[球].js"
+    },
+     {
+      "key": "hipy_js_01看球[球]",
+      "name": "01看球[球]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/01看球[球].js"
     },
      {
       "key": "push_agent",
