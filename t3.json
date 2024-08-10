@@ -3688,14 +3688,7 @@
       "order_num": 0,
       "ext": "./drpy_js/iku喵[资].js"
     },
-    {
-      "key": "Iktv",
-      "name": "KTV",
-      "type": 3,
-      "api": "csp_Iktv",
-      "searchable": 1,
-      "changeable": 0
-    },
+   
     
     {
       "key": "hipy_js_LIBVIO[优]",
