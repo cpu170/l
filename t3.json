@@ -15,6 +15,17 @@
       "order_num": 0,
       "ext": "./drpy_js/豆瓣[官].js"
     },
+     {
+      "key": "hipy_js_磁力熊[磁]",
+      "name": "磁力熊[磁]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/磁力熊[磁].js"
+    },
     {
       "key": "Local",
       "name": "本地|播放",
@@ -727,17 +738,7 @@
       "order_num": 0,
       "ext": "./drpy_js/臭蛋蛋.js"
     },
-    {
-      "key": "hipy_js_磁力熊[磁]",
-      "name": "磁力熊[磁]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/磁力熊[磁].js"
-    },
+   
     {
       "key": "hipy_js_次元城动漫[漫]",
       "name": "次元城动漫[漫]",
