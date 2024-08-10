@@ -3635,17 +3635,7 @@
       "order_num": 0,
       "ext": "./drpy_js/爱弹幕[漫].js"
     },
-    {
-      "key": "hipy_js_包子漫画[画]",
-      "name": "包子漫画[画]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/包子漫画[画].js"
-    },
+   
      {
       "key": "hipy_js_次元城动漫[漫]",
       "name": "次元城动漫[漫]",
@@ -3690,17 +3680,7 @@
       "order_num": 0,
       "ext": "./drpy_js/咕咕番[漫].js"
     },
-    {
-      "key": "hipy_js_古风漫画[画]",
-      "name": "古风漫画[画]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/古风漫画[画].js"
-    },
+    
      {
       "key": "hipy_js_花子动漫[漫]",
       "name": "花子动漫[漫]",
@@ -3734,28 +3714,8 @@
       "order_num": 0,
       "ext": "./drpy_js/驴番[漫].js"
     },
-     {
-      "key": "hipy_js_漫画走廊[画密飞]",
-      "name": "漫画走廊[画密飞]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/漫画走廊[画密飞].js"
-    },
-    {
-      "key": "hipy_js_漫小肆[画]",
-      "name": "漫小肆[画]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/漫小肆[画].js"
-    },
+    
+   
       {
       "key": "hipy_js_萌番[漫]",
       "name": "萌番[漫]",
