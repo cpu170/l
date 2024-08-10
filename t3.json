@@ -545,17 +545,7 @@
       "order_num": 0,
       "ext": "./drpy_js/北川影视.js"
     },
-    {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "贝乐虎[儿]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/贝乐虎[儿].js"
-    },
+   
    
    
  
@@ -2278,28 +2268,7 @@
       "order_num": 0,
       "ext": "./drpy_js/天天影视.js"
     },
-    {
-      "key": "hipy_js_童趣[儿]",
-      "name": "童趣[儿]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/童趣[儿].js"
-    },
-    {
-      "key": "hipy_js_兔小贝[儿]",
-      "name": "兔小贝[儿]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/兔小贝[儿].js"
-    },
+   
     {
       "key": "团长资源",
       "name": "团长资源|网盘",
@@ -3623,6 +3592,39 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./drpy_js/TVB云播.js"
+    },
+     {
+      "key": "hipy_js_童趣[儿]",
+      "name": "童趣[儿]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/童趣[儿].js"
+    },
+    {
+      "key": "hipy_js_兔小贝[儿]",
+      "name": "兔小贝[儿]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/兔小贝[儿].js"
+    },
+     {
+      "key": "hipy_js_贝乐虎[儿]",
+      "name": "贝乐虎[儿]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/贝乐虎[儿].js"
     },
      {
       "key": "hipy_js_爱弹幕[漫]",
