@@ -244,7 +244,7 @@
   },
     {
       "key": "php2_hmezy",
-      "name": "🤪 黑木耳(T4_PHP)",
+      "name": "黑木耳(T4_PHP)",
       "type": 4,
       "api": "https://t4.doube.eu.org/heimuer.php",
       "jar": "https://t4.doube.eu.org/spider.jar",
@@ -255,7 +255,7 @@
     },
     {
       "key": "php_huaweiba",
-      "name": "🤪 华为吧(T4_PHP)",
+      "name": "华为吧(T4_PHP)",
       "type": 4,
       "api": "https://t4.doube.eu.org/huaweiba.php",
       "jar": "https://t4.doube.eu.org/spider.jar",
@@ -282,7 +282,7 @@
     },
     {
       "key": "xp_nuiyue",
-      "name": "🤪 纽约影视(T3_csp_XPath)",
+      "name": "纽约影视(T3_XPath)",
       "type": 3,
       "api": "csp_XPathFilter",
       "jar": "https://t4.doube.eu.org/spider.jar",
