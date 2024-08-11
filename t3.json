@@ -2523,29 +2523,6 @@
       "order_num": 0,
       "ext": "./drpy_js/旺旺影视.js"
     },
-   
-    {
-      "key": "hipy_js_文才[资]",
-      "name": "文才[资]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/文才[资].js"
-    },
-    {
-      "key": "hipy_js_文才2[资]",
-      "name": "文才2[资]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/文才2[资].js"
-    },
     {
       "key": "hipy_js_我爱跟剧",
       "name": "我爱跟剧",
