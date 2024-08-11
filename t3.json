@@ -1524,28 +1524,6 @@
       "ext": "./drpy_js/老白故事[box].js"
     },
     {
-      "key": "hipy_js_老司视频[密]",
-      "name": "老司视频[密]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/老司视频[密].js"
-    },
-    {
-      "key": "hipy_js_乐草TV[密]",
-      "name": "乐草TV[密]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/乐草TV[密].js"
-    },
-    {
       "key": "hipy_js_两个BT",
       "name": "两个BT",
       "type": 3,
