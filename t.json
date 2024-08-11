@@ -4125,7 +4125,7 @@
       "name": "🎧TingFM[听]",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jars/XBPQ1.jar",
+      "jar": "./jars/XBPQ.jar",
       "ext": {
         "主页url": "https://cn.tingfm.com",
         "直接播放": "1",
