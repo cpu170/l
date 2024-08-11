@@ -273,6 +273,47 @@
       "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
       "ext": "http://mf.songshu.cyou/api.php/app/"
     },
+     {
+      "key": "可口可乐",
+      "name": "♐┃可乐弟┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
+    {
+      "key": "泰泰",
+      "name": "🎈tv酷影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    },
+     {
+      "key": "千神",
+      "name": "🏧┣千神┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.9mcm.com/api.php/app/"
+    },
+    {
+      "key": "北川",
+      "name": "🏧┣北川┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.bczhuiju.com/api.php/v1.vod"
+    },
+    {
+      "key": "追忆",
+      "name": "🏧┣追忆┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://110.42.7.101:1122/api.php/app/"
+    },
     {
       "key": "php2_hmezy",
       "name": "黑木耳(T4_PHP)",
