@@ -31,7 +31,7 @@
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "api": ".//drpy_libs/lf_search3_min.js"
+      "api": "./drpy_libs/lf_search3_min.js"
     },
      {
       "key": "hipy_js_豆瓣[官]",
