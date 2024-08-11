@@ -3616,7 +3616,7 @@
     },
      {
       "key": "ppxdm",
-      "name": "ppx动漫",
+      "name": "ppx动漫[漫]",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./json/XBPQ.jar",
