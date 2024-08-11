@@ -4902,35 +4902,40 @@
     "renrenmi"
   ],
   "lives": [
-    
+         
         {
-          "name": "稳定github直播",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
-          ]
+            "name": "云星日记直播",
+            "type": 0,
+            "url": "http://itvbox.cc/云星日记/Ipv4.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
-          "name": "华数2",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"
-          ]
+            "name": 杭州华数",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
-          "name": "杭州华数",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
-          ]
+            "name": "华数2",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
-        {
-          "name": "云星日记直播",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
-          ]
+	 {
+            "name": "稳定github直播",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
-        {
-          "name": "本地嗅探器直播",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
-           }
-    ]
-}
+         {
+            "name": "本地嗅探器直播",
+            "type": 0,
+            "url": "http://127.0.0.1:5708/ysp",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        }
+         ]
+     } 
+       
+      
+ 
+        
