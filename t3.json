@@ -269,7 +269,7 @@
       "name": "VS影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./json/XBPQ.jar",
+      "jar": "./jars/XBPQ.jar",
       "ext": {
         "线路数组": "#playlist&&</a>",
         "播放数组": "myui-content__list&&</ul>",
@@ -3203,7 +3203,7 @@
       "name": "Nuu|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./json/XBPQ.jar",
+      "jar": "./jars/XBPQ.jar",
       "ext": {
         "分类url": "https://nuu.su/x/id/{cateId}/page/{catePg}.html",
         "分类": "電影$1#劇集$2#動漫$3#綜藝$4"
@@ -3705,7 +3705,7 @@
       "name": "ppx动漫[漫]",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./json/XBPQ.jar",
+      "jar": "./jars/XBPQ.jar",
       "ext": {
         "主页url": "https://www.ppxdm.com/",
         "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
