@@ -250,6 +250,29 @@
 	  "api": "csp_AppYsV2",
 	  "ext": "https://siguyy.cn/api.php/app/"
   },
+   {
+      "key": "西瓜xigua",
+      "name": "┣西瓜┫APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+    },
+    {
+      "key": "影馆4k",
+      "name": "影馆┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "ext": "https://4kdyg.top/api.php/v1.vod"
+    },
+    {
+      "key": "思古languang",
+      "name": "思古┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "ext": "http://mf.songshu.cyou/api.php/app/"
+    },
     {
       "key": "php2_hmezy",
       "name": "黑木耳(T4_PHP)",
