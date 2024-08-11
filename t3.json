@@ -242,6 +242,44 @@
 	  "api": "csp_AppYsV2",
 	  "ext": "https://siguyy.cn/api.php/app/"
   },
+    {
+      "key": "php2_hmezy",
+      "name": "🤪 黑木耳(T4_PHP)",
+      "type": 4,
+      "api": "https://t4.doube.eu.org/heimuer.php",
+      "jar": "https://t4.doube.eu.org/spider.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "php_huaweiba",
+      "name": "🤪 华为吧(T4_PHP)",
+      "type": 4,
+      "api": "https://t4.doube.eu.org/huaweiba.php",
+      "jar": "https://t4.doube.eu.org/spider.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "VS影院",
+      "name": "VS影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "线路数组": "#playlist&&</a>",
+        "播放数组": "myui-content__list&&</ul>",
+        "播放列表": "<a&&</a>",
+        "播放标题": ">&&<[不包含:APP秒播]",
+        "跳转播放链接": "src=\"https://jiexi.ddmz6.com/api/publicApi.php?url=&&\"",
+        "分类url": "https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html",
+        "分类": "短剧$5#国产剧$17#港台剧$18#日韩剧$20#电视剧$2#电影$1#动作片$6#喜剧片$7#爱情片$8#恐怖片$10#动漫$4#综艺$3"
+      }
+    },
 
     {
       "key": "hipy_js_29片库[密]",
