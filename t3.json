@@ -208,6 +208,42 @@
       }
     },
     {
+	  "key": "剧兔",
+	  "name": "追剧兔子┃┃💠V2",
+	  "type": 3,
+	  "api": "csp_AppYsV2",
+	  "ext": "https://www.zjtu.one/api.php/app/"
+  },
+  {
+	  "key": "河狸",
+	  "name": "河狸影视┃┃💠V2",
+	  "type": 3,
+	  "api": "csp_AppYsV2",
+	  "ext": "https://www.heli888.cc/api.php/app/"
+  },
+  {
+	  "key": "柠檬",
+	  "name": "柠檬影视┃┃💠V2",
+	  "type": 3,
+	  "api": "csp_AppYsV2",
+	  "ext": "http://mf.songshu.cyou/api.php/app/"
+  },
+  {
+	  "key": "影馆",
+	  "name": "影馆剧场┃┃💠V2",
+	  "type": 3,
+	  "api": "csp_AppYsV2",
+	  "ext": "https://4kdyg.top/api.php/v1.vod"
+  },
+  {
+	  "key": "思古",
+	  "name": "思古影视┃┃💠V2",
+	  "type": 3,
+	  "api": "csp_AppYsV2",
+	  "ext": "https://siguyy.cn/api.php/app/"
+  },
+
+    {
       "key": "hipy_js_29片库[密]",
       "name": "29片库[密]",
       "type": 3,
