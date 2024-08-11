@@ -1327,17 +1327,7 @@
       "order_num": 0,
       "ext": "./drpy_js/金牌影院.js"
     },
-    {
-      "key": "hipy_js_金鹰资源[资]",
-      "name": "金鹰资源[资]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/金鹰资源[资].js"
-    },
+   
     {
       "key": "hipy_js_九牛电影",
       "name": "九牛电影",
