@@ -283,7 +283,7 @@
       "name": "采集 | 大全",
       "type": 3,
       "api": "./drpy_libs/drpy2.min.js",
-      "ext": "./drpy_js/影视大全.js"
+      "ext": "./drpy_js/影视大全1.js"
     },
     {
       "key": "hipy_js_0855影视",
