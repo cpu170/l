@@ -3917,6 +3917,25 @@
       "order_num": 0,
       "ext": "./drpy_js/58动漫[漫].js"
     },
+    {
+      "key": "TingFM",
+      "name": "🎧TingFM[听]",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "ext": {
+        "主页url": "https://cn.tingfm.com",
+        "直接播放": "1",
+        "数组": "class=\"ax-grid-block ax-col-5-avg ax-space-lg\"&&</div>",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&</p>",
+        "图片": "src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "简介": "祝各位听的愉快！！！",
+        "分类url": "http://www.guangbomi.com/{cateId}.html?page={catePg}",
+        "分类": "中央台$fmlist223#省台$fmlist220#省会台$fmlist224#地市台$fmlist221#区县台$fmlist222#新闻综合$fmlist20#交通$fmlist58#音乐$fmlist57#经济$fmlist56#生活$fmlist59#文艺$fmlist60#都市$fmlist61#故事$fmlist62#旅游$fmlist63#乡村$fmlist64#娱乐$fmlist65#戏曲$fmlist66#体育$fmlist67#评书相声$fmlist69#青少科教$fmlist70#网络电台$fmlist113#汽车$fmlist134#其他类型$fmlist135"
+      }
+    },
       {
       "key": "hipy_js_啊哈DJ[听]",
       "name": "啊哈DJ[听]",
