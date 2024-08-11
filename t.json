@@ -4902,9 +4902,7 @@
     "renrenmi"
   ],
   "lives": [
-    {
-      "group": "redirect",
-      "channels": [
+    
         {
           "name": "稳定github直播",
           "urls": [
