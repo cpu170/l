@@ -315,6 +315,73 @@
       "ext": "http://110.42.7.101:1122/api.php/app/"
     },
     {
+      "key": "五一零刻影院",
+      "name": "五一零刻影院┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+    },
+     {
+      "key": "NRTFIY星球",
+      "name": "NETFIY┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.netfly.tv/api.php/app/"
+    },
+    {
+      "key": "2聚合",
+      "name": "分享遇见",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 2,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+    },
+    {
+      "key": "雨晴",
+      "name": "分享晴天",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "巴士影视app",
+      "name": "巴士┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://103.142.103.84/api.php/app/",
+      "categories": [
+        "电影频道",
+        "剧集频道",
+        "综艺频道",
+        "动漫频道"
+      ]
+    },
+    {
+      "key": "北极狐",
+      "name": "北狐┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
       "key": "php2_hmezy",
       "name": "黑木耳(T4_PHP)",
       "type": 4,
