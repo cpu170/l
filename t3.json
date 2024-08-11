@@ -181,6 +181,14 @@
       "ext": "./drpy_js/直播转点播[合].js?type=url&params=./json/live2cms.json"
     },
     {
+      "key": "直播转点播",
+      "name": "🐼️┃电视┃直播",
+      "type": 3,
+      "searchable": 0,
+      "api": "./json/live2vod.js",
+      "ext": "./json/feimaolive.json"
+    },
+    {
       "key": "hipy_js_0855影视",
       "name": "0855影视",
       "type": 3,
@@ -4232,6 +4240,19 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./drpy_js/01看球[球].js"
+    },
+     {
+      "key": "FirstAid",
+      "name": "🚑 急救知识 ",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
     },
      {
       "key": "push_agent",
