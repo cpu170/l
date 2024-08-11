@@ -279,6 +279,13 @@
       }
     },
     {
+      "key": "drjs_大全",
+      "name": "采集 | 大全",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "ext": "./drpy_js/影视大全.js"
+    },
+    {
       "key": "hipy_js_0855影视",
       "name": "0855影视",
       "type": 3,
