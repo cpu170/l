@@ -3112,7 +3112,17 @@
       "order_num": 0,
       "ext": "./drpy_js/游子视频.js"
     },
-   
+    {
+      "key": "nuu.su",
+      "name": "Nuu|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./json/XBPQ.jar",
+      "ext": {
+        "分类url": "https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+        "分类": "電影$1#劇集$2#動漫$3#綜藝$4"
+      }
+    },
     {
       "key": "hipy_js_宇航影视",
       "name": "宇航影视",
