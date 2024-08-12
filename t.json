@@ -2671,6 +2671,15 @@
       "timeout": 60,
       "ext": "./json/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./json/wogg.json"
     },
+     {
+            "key": "电影港",
+            "name": "影港┃磁力",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "playerType": 2,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/电影港.json"
+        },
     {
       "key": "Wobg",
       "name": "玩偶表哥|网盘",
