@@ -630,6 +630,17 @@
       "order_num": 0,
       "ext": "./drpy_js/555影视[飞].js"
     },
+    {
+      "key": "hipy_js_567电影院",
+      "name": "567影视电影院",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/567电影院.js"
+    },
    
     {
       "key": "hipy_js_6V新版[磁]",
@@ -1133,7 +1144,17 @@
       "order_num": 0,
       "ext": "./drpy_js/嘀哩嘀哩.js"
     },
-   
+     {
+      "key": "hipy_js_看韩剧",
+      "name": "看韩剧",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/看韩剧.js"
+    },
     {
       "key": "hipy_js_电影狗",
       "name": "电影狗",
