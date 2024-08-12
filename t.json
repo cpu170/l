@@ -4005,6 +4005,15 @@
       "order_num": 0,
       "ext": "./drpy_js/TVB云播.js"
     },
+      {
+            "key": "mp4",
+            "name": "MP4┃磁力",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "playerType": 2,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/mp4影视.json"
+        },
      {
       "key": "hipy_js_童趣[儿]",
       "name": "童趣[儿]",
