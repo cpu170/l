@@ -1739,6 +1739,21 @@
       "order_num": 0,
       "ext": "./drpy_js/看客影院.js"
     },
+     {
+            "key": "csp_看客网",
+            "name": "看客┃BPQ",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_XBPQ",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "分类url": "https://kanke.cc/Show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
+                "分类": "剧库$1#影库$2#番剧$4#记录$3",
+                "数组二次截取": "class=\"pic-list&&</ul",
+                "数组": "<li>&&</li",
+                "线路数组": "class=\"py-tabs&&</select>"
+            }
+        },
     {
       "key": "hipy_js_看了么",
       "name": "看了么",
