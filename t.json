@@ -2559,6 +2559,18 @@
       "order_num": 0,
       "ext": "./drpy_js/思古影视[V2].js"
     },
+     {
+            "key": "csp_slgq",
+            "name": "石榴┃BPQ",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/石榴电影.json"
+        },
     {
       "key": "hipy_js_素白白[优]",
       "name": "素白白[优]",
