@@ -4,6 +4,17 @@
   "homeLogo": "./img/logo500x200-1.png",
   "spider": "./jar/Yoursmile.jar",
   "sites": [
+	{
+      "key": "hipy_js_豆瓣[官]",
+      "name": "豆瓣[官]",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/豆瓣[官].js"
+    },
        {
       "key": "豆豆",
       "name": "🌕┃豆豆┃搜索",
@@ -33,17 +44,7 @@
       "filterable": 0,
       "api": "./drpy_js/lf_search3_min.js"
     },
-     {
-      "key": "hipy_js_豆瓣[官]",
-      "name": "豆瓣[官]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/豆瓣[官].js"
-    },
+    
      {
       "key": "csp_XBPQ_预告",
       "name": "新片预告",
