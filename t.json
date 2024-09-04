@@ -86,6 +86,17 @@
         "ratio": 1.5
       }
     },
+     {
+      "key": "ConfigCenter",
+      "name": "🅿网盘配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+      }
+    },  
     {
       "key": "hipy_js_360影视[官]",
       "name": "360影视[官]",
