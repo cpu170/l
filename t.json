@@ -583,29 +583,8 @@
       "order_num": 0,
       "ext": "./drpy_js/4k剧院.js"
     },
-    {
-      "key": "4KHDR",
-      "name": "4KHDR|网盘",
-      "type": 3,
-      "api": "csp_FourKHDR",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$./json/4khdr.txt$$$1",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
-      "key": "XBPQ_4k影视",
-      "name": "4K┃BPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/4k影视.json"
-    },
+   
+   
     {
       "key": "hipy_js_539影视",
       "name": "539影视",
@@ -1039,17 +1018,7 @@
       "order_num": 0,
       "ext": "./drpy_js/低端.js"
     },
-    {
-      "key": "ddys",
-      "name": "低端影视|网盘",
-      "type": 3,
-      "api": "csp_Ddys",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
-    },
+   
     {
       "key": "hipy_js_嘀哩嘀哩",
       "name": "嘀哩嘀哩",
@@ -1774,17 +1743,7 @@
       "order_num": 0,
       "ext": "./drpy_js/蜡笔[盘].js"
     },
-    {
-      "key": "蜡笔网盘",
-      "name": "蜡笔|网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./json/wogg.json"
-    },
+   
     {
       "key": "hipy_js_来看点播[自动]",
       "name": "来看点播[自动]",
@@ -1911,17 +1870,7 @@
       "order_num": 0,
       "ext": "./drpy_js/猫视界.js"
     },
-    {
-      "key": "美剧迷",
-      "name": "美剧迷|网盘",
-      "type": 3,
-      "api": "csp_Meijumi",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 120,
-      "ext": "./json/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
-    },
+   
     {
       "key": "hipy_js_美剧星球",
       "name": "美剧星球",
@@ -2472,39 +2421,8 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/淘剧.json"
     },
-    {
-      "key": "团长资源",
-      "name": "团长资源|网盘",
-      "type": 3,
-      "api": "csp_TZFile",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$noproxy$$$1"
-    },
-    {
-      "key": "yydsys",
-      "name": "玩你老哥|网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "Wo4k",
-      "name": "玩偶4K|磁力",
-      "type": 3,
-      "api": "csp_Wo4k",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./json/wogg.json"
-    },
+    
+  
      {
             "key": "电影港",
             "name": "影港┃磁力",
@@ -2514,61 +2432,9 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/电影港.json"
         },
-    {
-      "key": "Wobg",
-      "name": "玩偶表哥|网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "hipy_js_玩偶哥哥[盘]",
-      "name": "玩偶哥哥[盘]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/玩偶哥哥[盘].js"
-    },
-    {
-      "key": "Wogg",
-      "name": "玩偶哥哥|网盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./json/wogg.json$$$WOGG"
-    },
-    {
-      "key": "Wogg0",
-      "name": "玩偶哥哥[备1]|网盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "Wogg1",
-      "name": "玩偶哥哥[备2]|网盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$http://wogg.xxooo.cf/$$$noproxy$$$1$$$./json/wogg.json"
-    },
+   
+    
+   
     {
       "key": "hipy_js_网飞.TV",
       "name": "网飞.TV",
@@ -2610,7 +2476,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./js/alistjar.json"
+      "ext": "./drpy_js/alistjar.json"
     },
     {
       "key": "hipy_js_往往影视[慢]",
@@ -2818,21 +2684,7 @@
       "order_num": 0,
       "ext": "./drpy_js/小女18[密].js"
     },
-    {
-      "key": "Xpanpan",
-      "name": "小盘盘|网盘",
-      "type": 3,
-      "api": "csp_Xpanpan",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
+    
     {
       "key": "hipy_js_小鱼影视",
       "name": "小鱼影视",
@@ -2879,17 +2731,7 @@
       "order_num": 0,
       "ext": "./drpy_js/新视觉.js"
     },
-    {
-      "key": "Xinshijue",
-      "name": "新视觉|网盘",
-      "type": 3,
-      "api": "csp_Xinshijue",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./json/wogg.json"
-    },
+   
     {
       "key": "hipy_js_星辰[优]",
       "name": "星辰[优]",
@@ -3149,17 +2991,7 @@
       "ext": "./drpy_js/银河影视[V2].js"
     },
    
-    {
-      "key": "Hdhive",
-      "name": "影巢|网盘",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$noproxy$$$1"
-    },
+   
     {
       "key": "hipy_js_影剧星球",
       "name": "影剧星球",
@@ -3305,14 +3137,7 @@
       "order_num": 0,
       "ext": "./drpy_js/云电影网.js"
     },
-    {
-      "key": "YunPan",
-      "name": "云盘资源|网盘",
-      "type": 3,
-      "api": "csp_YunPan",
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$null$$$proxy$$$1"
-    },
+    
     {
       "key": "hipy_js_云盘资源网[盘]",
       "name": "云盘资源网[盘]",
@@ -3358,17 +3183,7 @@
       "order_num": 0,
       "ext": "./drpy_js/至臻[盘].js"
     },
-    {
-      "key": "Gaoqing",
-      "name": "中国高清网|网盘",
-      "type": 3,
-      "api": "csp_Gaoqing",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"
-    },
+   
     
     {
       "key": "hipy_js_追剧兔",
@@ -3525,17 +3340,7 @@
       "order_num": 0,
       "ext": "./drpy_js/HDmoli.js"
     },
-    {
-      "key": "Moli",
-      "name": "HDmoli|网盘",
-      "type": 3,
-      "api": "csp_Moli",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./json/moli.json"
-    },
+   
    
     {
       "key": "hipy_js_iFun",
@@ -3572,17 +3377,7 @@
       "order_num": 0,
       "ext": "./drpy_js/LIBVIO[优].js"
     },
-    {
-      "key": "Libvio",
-      "name": "LIBVIO|网盘",
-      "type": 3,
-      "api": "csp_Libvio",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$https://www.libvio.fun/$$$null"
-    },
+    
     
     {
       "key": "hipy_js_ok资源[资]",
