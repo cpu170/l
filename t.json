@@ -3594,31 +3594,8 @@
       "ext": "./drpy_js/咕咕番[漫].js"
     },
     
-     {
-      "key": "hipy_js_花子动漫[漫]",
-      "name": "花子动漫[漫]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/花子动漫[漫].js"
-    },
     
-     {
-      "key": "hipy_js_驴番[漫]",
-      "name": "驴番[漫]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/驴番[漫].js"
-    },
     
-   
       {
       "key": "hipy_js_萌番[漫]",
       "name": "萌番[漫]",
