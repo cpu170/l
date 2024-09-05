@@ -4023,39 +4023,9 @@
       "order_num": 0,
       "ext": "./drpy_js/310直播[球].js"
     },
-      {
-      "key": "hipy_js_360吧[球]",
-      "name": "360吧[球]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/360吧[球].js"
-    },
-     {
-      "key": "hipy_js_88看球[球]",
-      "name": "88看球[球]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/88看球[球].js"
-    },
-     {
-      "key": "hipy_js_01看球[球]",
-      "name": "01看球[球]",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/01看球[球].js"
-    },
+     
+     
+     
      {
       "key": "FirstAid",
       "name": "🚑 急救知识 ",
