@@ -717,18 +717,7 @@
       "order_num": 0,
       "ext": "./drpy_js/8号影院.js"
     },
-    {
-      "key": "UP云搜",
-      "name": "阿里|UP云搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "timeout": 30,
-      "ext": "./json/tokenm.json",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
+   
     {
       "key": "hipy_js_阿里土豆[盘]",
       "name": "阿里土豆[盘]",
@@ -1761,37 +1750,8 @@
       "order_num": 0,
       "ext": "./drpy_js/酷云影视.js"
     },
-    {
-      "key": "QuarkPanso",
-      "name": "夸克盘搜|夸克搜索",
-      "type": 3,
-      "api": "csp_QuarkPanso",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
-      "key": "QuarkShare",
-      "name": "夸克云盘分享",
-      "type": 3,
-      "api": "csp_QuarkShare",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "./json/tokenm.json$$$./json/quarkshare.txt",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
+   
+   
     {
       "key": "hipy_js_快看影视",
       "name": "快看影视",
@@ -2237,21 +2197,7 @@
       "ext": "./drpy_js/千神影视.js"
     },
     
-    {
-      "key": "Funletu",
-      "name": "趣盘搜|夸克搜索",
-      "type": 3,
-      "api": "csp_Funletu",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/tokenm.json",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
+   
     {
       "key": "hipy_js_热播之家",
       "name": "热播之家",
