@@ -4276,14 +4276,13 @@
     },
      {
       "key": "push_agent",
-      "name": "🍭推送",
+      "name": "PG推送",
       "type": 3,
       "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-   } 
+      "changeable": 0,
+      "timeout": 30,
+      "ext": "./json/tokenm.json"
+    }
   ],
   "parses": [
     {
