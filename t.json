@@ -289,17 +289,7 @@
       "order_num": 0,
       "ext": "./drpy_js/影视大全.js"
     },
-    {
-      "key": "hipy_js_0855影视",
-      "name": "0855影视",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_js/0855影视.js"
-    },
+   
    
     {
 	  "key": "剧兔zjtu",
@@ -336,13 +326,7 @@
 	  "api": "csp_AppYsV2",
 	  "ext": "https://siguyy.cn/api.php/app/"
   },
-   {
-      "key": "西瓜xigua",
-      "name": "┣西瓜┫APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
-    },
+  
     {
       "key": "影馆4k",
       "name": "影馆┃蓝光┃纯净",
@@ -351,24 +335,8 @@
       "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
       "ext": "https://4kdyg.top/api.php/v1.vod"
     },
-    {
-      "key": "思古languang",
-      "name": "思古┃蓝光┃纯净",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "ext": "http://mf.songshu.cyou/api.php/app/"
-    },
-     {
-      "key": "可口可乐4k",
-      "name": "┃可乐弟┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    },
+   
+     
     {
       "key": "泰泰tvkuys",
       "name": "tv酷影",
@@ -420,16 +388,7 @@
       "filterable": 1,
       "ext": "https://www.netfly.tv/api.php/app/"
     },
-    {
-      "key": "2聚合",
-      "name": "分享遇见",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 2,
-      "filterable": 1,
-      "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
-    },
+   
     {
       "key": "雨晴",
       "name": "分享晴天",
