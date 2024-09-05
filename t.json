@@ -2456,16 +2456,7 @@
       "order_num": 0,
       "ext": "./drpy_js/网飞猫[优].js"
     },
-    {
-      "key": "AList",
-      "name": "网盘|Alist[jar]",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./drpy_js/alistjar.json"
-    },
+    
     {
       "key": "hipy_js_往往影视[慢]",
       "name": "往往影视[慢]",
