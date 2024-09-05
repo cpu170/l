@@ -73,19 +73,7 @@
       "type": 3,
       "api": "csp_Local"
     },
-    {
-      "key": "网盘配置",
-      "name": "网盘及彈幕配置",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/tokenm.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
-    },
+   
      {
       "key": "ConfigCenter",
       "name": "🅿网盘配置中心",
