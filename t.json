@@ -4427,7 +4427,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/我爱AV.json",
-      "jar": "./jars/XBPQ.jar"
+      "jar": "./jars/XBPQ1.jar"
     },
     {
       "key": "色花堂xbpq",
@@ -4438,7 +4438,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/色花堂.json",
-      "jar": "./jars/XBPQ.jar"
+      "jar": "./jars/XBPQ1.jar"
     },
       {
       "key": "www四虎",
@@ -4564,7 +4564,7 @@
         "分类": "国产情色&AV解说&国产传媒&亚洲伦理&剧情动漫&AI换脸&偷拍偷窥&主播直播&制服黑丝&重口激情&中文字幕&日本有码&日本无码&强奸乱伦&萝莉少女&激情动漫&女同性恋&抖阴视频&网曝黑料&网红头条&欧美无码&极品媚黑&女优明星",
         "分类值": "163&158&166&147&161&148&177&35&52&109&168&169&170&172&175&178&133&155&164&162&171&165&174"
       },
-      "jar": "./jars/XBPQ.jar"
+      "jar": "./jars/XBPQ1.jar"
     },
     {
       "key": "91麻豆",
@@ -4627,7 +4627,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jars/XBPQ.jar",
+      "jar": "./jars/XBPQ1.jar",
       "ext": {
         "站名": "小幺女",
         "主页url": "https://xxynwo6.buzz/sort/id/245.html",
