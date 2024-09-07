@@ -305,13 +305,7 @@
 	  "api": "csp_AppYsV2",
 	  "ext": "https://www.heli888.cc/api.php/app/"
   },
-  {
-	  "key": "柠檬song",
-	  "name": "柠檬影视┃┃💠V2",
-	  "type": 3,
-	  "api": "csp_AppYsV2",
-	  "ext": "http://mf.songshu.cyou/api.php/app/"
-  },
+  
   {
 	  "key": "影馆4kdy",
 	  "name": "影馆剧场┃┃💠V2",
