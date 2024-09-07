@@ -342,32 +342,9 @@
 {"key": "酷我","name": "🏧┣酷我┫App","type": 3,"api": "csp_AppYsV2","ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
 {"key": "看剧","name": "🏧┣爱看┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.ikanju.cc/mogai_api.php/v1.vod"},
 {"key": "雷神","name": "🏧┣雷神┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://39.98.32.241:6688/api.php/zjv3.vod"},
-
   {"key": "星球","name": "⚡┣星球┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
   {"key": "奈飞","name": "⚡┣鸭飞┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://yanetflix.me/api.php/app/"},
- 
-  {"key": "皮虾","name": "⚡┣皮虾┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://aikun.tv/api.php/app/"},
-  {"key": "神马","name": "⚡┣神马┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.shenmaysk.com/api.php/app/"},
- 
-  {"key": "老蟹","name": "⚡┣老蟹┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://www.ajj001.top/api.php/app/"},
-  {"key": "柠檬","name": "⚡┣柠檬┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://mf.songshu.cyou/api.php/app/"},
   {"key": "星易","name": "⚡┣星影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.xingyiying.com/api.php/v1.vod"},
-  {"key": "迪影","name": "⚡┣爱迪┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://adys.tv/xgapp.php/v1/"},
-  {"key": "视站","name": "⚡┣影库┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://xn--p3t583cbin.top/api.php/app/"},
-  {"key": "银河","name": "⚡┣银河┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://134.175.219.46/mogai_api.php/v1.vod"},
-  {"key": "美剧","name": "⚡┣美剧┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.69mj.com/xgapp.php/v2/"},
-  {"key": "大米","name": "⚡┣大米┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://damifi.com/api.php/app/"},
- 
-  {"key": "千神","name": "⚡┣千神┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.56aq.com/api.php/app/"},
-  {"key": "西瓜","name": "⚡┣西瓜┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://4k.953365.cn:8090/xgapp.php/v2/"},
-  {"key": "雨晴","name": "⚡┣晴天┫App","type": 3,"api": "csp_AppYsV2","ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"},
-  {"key": "少泽","name": "⚡┣少泽┫App","type": 3,"api": "csp_AppYsV2","ext": "https://yk.shaozeyy.com/api.php/app/"},
-  {"key": "酷我","name": "⚡┣酷我┫App","type": 3,"api": "csp_AppYsV2","ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
-  {"key": "嘛艺","name": "⚡┣嘛艺┫App","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.84.103:5822/api.php/app/"},
-  {"key": "看剧","name": "⚡┣爱看┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.ikanju.cc/mogai_api.php/v1.vod"},
-  {"key": "金蝉","name": "⚡┣金蝉┫影视","type": 1,"api": "https://www.jcys.bf/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-  {"key": "剧狗","name": "⚡┣剧狗┫影视","type": 1,"api": "https://www.youmuz.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-  {"key": "秒播","name": "⚡┣秒播┫影视","type": 1,"api": "https://www.nvxvn.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "小宝","name": "⚡┣小宝┫影视","type": 1,"api": "http://www.xiaobao168.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "何以","name": "⚡┣何以┫直连","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
  
