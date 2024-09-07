@@ -501,8 +501,8 @@
     "name": "🌠┣木耳┫采集",
     "type": 1,
     "api": "https://heimuer.tv/api.php/provide/vod/",
-    "playurl": "https://player.heimuer.tv/index.html?url=",
-    "categories": ["国产剧","古装","虐恋","逆袭","神豪","重生","复仇","穿越","甜宠","强者"]
+    "playurl": "https://player.heimuer.tv/index.html?url="
+   
 },
 {
     "key": "豪华资源",
