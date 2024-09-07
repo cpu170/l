@@ -342,11 +342,10 @@
 {"key": "酷我","name": "🏧┣酷我┫App","type": 3,"api": "csp_AppYsV2","ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
 {"key": "看剧","name": "🏧┣爱看┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.ikanju.cc/mogai_api.php/v1.vod"},
 {"key": "雷神","name": "🏧┣雷神┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://39.98.32.241:6688/api.php/zjv3.vod"},
-  {"key": "星球","name": "⚡┣星球┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
-  {"key": "奈飞","name": "⚡┣鸭飞┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://yanetflix.me/api.php/app/"},
-  {"key": "星易","name": "⚡┣星影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.xingyiying.com/api.php/v1.vod"},
-  {"key": "小宝","name": "⚡┣小宝┫影视","type": 1,"api": "http://www.xiaobao168.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-  {"key": "何以","name": "⚡┣何以┫直连","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+  {"key": "星球","name": "🏧┣星球┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
+  {"key": "奈飞","name": "🏧┣鸭飞┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://yanetflix.me/api.php/app/"},
+  {"key": "小宝","name": "🏧┣小宝┫影视","type": 1,"api": "http://www.xiaobao168.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+  {"key": "何以","name": "🏧┣何以┫直连","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
  
 
     {
@@ -394,16 +393,7 @@
       "filterable": 1,
       "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
     },
-     {
-      "key": "NRTFIY星球",
-      "name": "NETFIY┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.netfly.tv/api.php/app/"
-    },
+    
    
     {
       "key": "雨晴",
