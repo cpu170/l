@@ -4040,7 +4040,13 @@
       "filterable": 1,
       "playurl": "https://jiexi.semaozy.cc/m3u8/?url= "
     },
-   
+    {
+      "key": "🔞采集D(Sm)",
+      "name": "猫🧅资源🔞",
+      "type": 0,
+      "api": "https://api.maozyapi.com/inc/api.php"
+    },   
+    
     {
       "key": "*美少女资源",
       "name": "*美少女资源🔞",
