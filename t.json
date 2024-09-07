@@ -496,20 +496,10 @@
 {"key": "风启影视","name": "🌀┣风启┫快播","type": 1,"api": "https://15ds.cn/api.php/provide/vod/"},
 {"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
 {"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
- {"key": "白菜影视","name": "🌠┣白菜┫视频","type": 3,"api": "csp_AppYsV2","ext": "http://www.4kgod6.club/api.php/app/"},
-  {"key": "策驰影视","name": "🌠┣策驰┫视频","type": 1,"api": "https://www.39kan.com/api.php/provide/vod/"},
-  {"key": "全影影视","name": "🌠┣全影┫影视","type": 1,"api": "http://tv.52ddw.com/api.php/provide/vod/"},
-  {"key": "芘芣资源","name": "🌠┣芘芣┫影视","type": 1,"api": "https://www.bilfun.cc/api.php/provide/vod/"},
-  {"key": "福星资源","name": "🌠┣福星┫影视","type": 1,"api": "https://www.voflix.vip/api.php/provide/vod/"},
-  {"key": "六六资源","name": "🌠┣六六┫影视","type": 1,"api": "https://www.666bo.top/api.php/provide/vod/"},
-  {"key": "阿里资源","name": "🌠┣阿里┫影视","type": 1,"api": "https://alivod.com/api.php/provide/vod/"},
-  {"key": "一舟影院","name": "🌠┣一舟┫影视","type": 1,"api": "http://www.mandao.site/api.php/provide/vod/"},
-  {"key": "天堂影院","name": "🌠┣天堂┫影视","type": 1,"api": "http://www.qoordgc.com/api.php/provide/vod/"},
-  {"key": "嗨米资源","name": "🌠┣嗨米┫影视","type": 1,"api": "https://www.himi.cc/api.php/provide/vod/"},
-  
+  {"key": "策驰影视","name": "🌀┣策驰┫视频","type": 1,"api": "https://www.39kan.com/api.php/provide/vod/"},
+  {"key": "阿里资源","name": "🌀┣阿里┫影视","type": 1,"api": "https://alivod.com/api.php/provide/vod/"},
  
- 
-  
+
  
     {
       "key": "hipy_js_29片库[密]",
