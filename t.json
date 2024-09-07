@@ -512,13 +512,7 @@
     "playurl": "https://hhjiexi.com/play/?url=",
     "categories": [ ]
 },
-{
-    "key": "新浪资源",
-    "name": "🌠┣新浪┫采集",
-    "type": 1,
-    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
-    "playurl": "https://www.xinlangjiexi.com/m3u8/?url="
-},
+
 {
     "key": "闪电资源",
     "name": "🌠┣闪电┫采集",
@@ -533,13 +527,7 @@
     "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
     "playurl": "https://api.ukubf.com/m3u8/?url="
 },
-{
-     "key": "飞刀资源",
-    "name": "🌠┣飞刀┫采集",
-    "type": 1,
-    "api": " http://www.feidaozy.com/api.php/provide/vod?",
-    "playurl": "http://www.feidaozy.com/?url="
-},
+
 {
     "key": "360资源",
     "name": "🌠┣卫视┫采集",
