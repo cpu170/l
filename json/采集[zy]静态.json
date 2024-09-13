@@ -666,6 +666,19 @@
         "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&22&23&24&25&26&27&28&29&30&31&32&33&34&35"
     },
   {
+        "name": "影图资源",
+        "url": "https://cj.vodimg.top",
+        "class_name": "H4sIAAAAAAAAAC3MTQrCQAwF4NvMOZUiNl2ohdIWLLoqUVS0C8HOj15mktRb1Amu8vHeI1I9KQxm+hzE3QjQiPMTWEPFif0lnRg6gbWhuvvVSZIPnK1UWNLokni540WtO8B/y3kbLWi2D9Fi+s6vO20fqqb/Hs+qK8p7o/IVle0M2798t5MAAAA=",
+        "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&21"
+    },
+    {
+        "name": "u酷资源",
+        "url": "https://api.ukuapi.com",
+        "cate_exclude": "^电影$|^电视剧$",
+        "class_name": "H4sIAAAAAAAAADWP3Q6CMAyF32bPqVHRcYGSIJBoQmKC8xcwhESB8TRbO95COufV+dqenLYYNVq+GEaNEZ7mgmHXG94y7V+gv5MoeUS+Zjo+TmMi3LxgsbIkQv3piGC+g1lsfVy4KWxS1XLbO0jVCkqHdwlDbSnJrTwEDgHRbyP+7tHbCj4Dtcfsan11RWKKSss9Zar+jDuPyDRLU5QM4mpMOleMp6UOfVdMgdNzf1saQJq5ArOnXZ2v3R/olyhvE30Bu+ncCxgBAAA=",
+        "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25&26&27&28&30&31&32&33&34"
+    },
+  {
     "name": "红牛",
     "url": "https://www.hongniuzy2.com",
     "parse_url": "",
