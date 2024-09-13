@@ -646,6 +646,13 @@
         "class_url": "16515072&16449536&16384000&16318464&16252928&16187392&16121856&16056320&15990784&15925248&15859712&15794176&15728640&15663104&15597568&15532032&15400960&15335424&15269888&15204352&15138816&15073280&15007744&14942208&14876672&14811136&14614528&14548992&8388608&1179648"
     },
   {
+        "name": "一舟资源",
+        "url": "http://www.mandao.site",
+        "cate_exclude": "^电影$|^连续剧$|^综艺$|^动漫$|^资讯$",
+        "class_name": "H4sIAAAAAAAAADWQfVKDMBDFb7PnVCrTJs5YmCJ2xtaOY5mgYgNa1ALRy7AfvYVN1L/2t8nbzXvhrEXXgHzfcf+CygD3g6gOUJc0PIO0F7KzvhvditUUMF+dVJ541tAkDmRSPPSe6DyhszzolPm7pdly7FQ4u3VjZ/wj9GlxXge6KY6bx0CV4a8rTxhXmGrAshkPCW73tL4H1pbdU9jXfuA29zrZ1eiug4OQQsyD2D2MbiHRK8j7GycTkMXaF3apL5RbsR3Gl3CMWqrnv4OAxfQ/QVRxnga3uuSsP4UgXQANGaZL4I3/ox/8GTYhNAEAAA==",
+        "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34"
+    },
+  {
     "name": "红牛",
     "url": "https://www.hongniuzy2.com",
     "parse_url": "",
