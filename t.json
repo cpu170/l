@@ -311,7 +311,16 @@
         "分类": "豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#动作片$type/index5#喜剧片$type/index10#科幻片$type/index7#大陆剧$type/index13#大陆综艺$type/index29#大陆动漫$type/index33#"
       }
     },
-   
+   {
+      "key": "csp_XBPQ_微云",
+      "name": "影视 | 🍚微云(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/微云tv.json"
+    },
     {
 	  "key": "剧兔zjtu",
 	  "name": "追剧兔子┃┃💠V2",
