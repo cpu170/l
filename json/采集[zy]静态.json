@@ -659,6 +659,13 @@
         "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25"
     },
   {
+        "name": "三八资源",
+        "url": "https://vod38.com",
+        "cate_exclude": "^电影$|^剧集$|^综艺$|^动漫$",
+        "class_name": "H4sIAAAAAAAAADWQSw6CMBCGb9MzulSMaFmIJIoaSNhI6gMVY4haxdMwM3AL6dSu5v/m0fk7tKygvgmQqkt8Qe9PK7WAYI+fkwlNnZKcCojTvsMomt1wPGGlIni9jcLRAocx90n1r+Js02jJuaRutOorAp9XEyAsmda5CV12YCoUfeesqgfsYi55FZYh71r47UWz0keoV/xusKcl76fszINeQXHUJwYC8qn1NhB4522wU93W///PGAlLB+u89+CAbbgzWOf2GHbGAc84sNYZfnn+oIlPAQAA",
+        "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&22&23&24&25&26&27&28&29&30&31&32&33&34&35"
+    },
+  {
     "name": "红牛",
     "url": "https://www.hongniuzy2.com",
     "parse_url": "",
